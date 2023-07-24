@@ -1,7 +1,8 @@
 # France Housing Price Prediction
 
 ## Overview
-We will use the existing france housing data to create a model to predict the france housing price
+Want to predict your existing france property price?
+We will use the 22k france housing transaction data to create a model for predicting the france housing price
 
 Please go to the following tableau map or tableau workbook file in the repository to have an overview of the price:
 https://public.tableau.com/app/profile/david7663/viz/FranceHousingPriceMap/HousingPriceMap
